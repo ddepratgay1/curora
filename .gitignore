@@ -1,0 +1,8 @@
+# Firebase config
+GoogleService-Info.plist
+
+# Xcode user files
+*.xcuserstate
+xcuserdata/
+DerivedData/
+.build/
